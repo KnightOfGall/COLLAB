@@ -8,6 +8,10 @@ ou
 ```sh
 git clone https://github.com/KnightOfGall/dyna3i.git 
 ```
+Puis dans le répertoire /vendor/bin faites la commande 
+```sh 
+docker-compose up
+```
 Equipe back-office :
 Roy Nathan, Dudognon François, Bellemare Maxime
 
