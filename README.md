@@ -8,6 +8,11 @@ ou
 ```sh
 git clone https://github.com/KnightOfGall/dyna3i.git 
 ```
+Sur sa distri linux, chacun doit exécuter la commande dans le bon répertoire xxx/dyna3i
+```sh
+docker run --rm --interactive --tty \
+  --volume $PWD:/app \
+  composer install
 Equipe back-office :
 Roy Nathan, Dudognon François, Bellemare Maxime
 
