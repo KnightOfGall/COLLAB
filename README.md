@@ -1,1 +1,1 @@
-git clone https://github.com/KnightOfGall/dyna3i.git
+git clone dyna3i master
